@@ -9,3 +9,5 @@ The bot will automatically remove multiple line breaks, and add a link to the to
 Some markdown is compatible with discord: https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-
 
 To keep links un-embedded, surround them with <>, e.g. `<https://oldschool.runescape.wiki>`
+
+To embed images, find the link in the repo e.g. `https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/god%20wars%20dungeon/7LedMPc.png` and add `?raw=true` to the end. Bot will automatically do this in future.

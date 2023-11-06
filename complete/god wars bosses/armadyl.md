@@ -55,6 +55,6 @@ https://github.com/osrs-gear-discord/gear-discord/blob/main/complete/god%20wars%
 ## 1+2 hopping method (40 kph)
 For in-depth information pertaining to the world hopping 1+2 method, refer to Petcord https://discord.gg/petcord
 
-## Videos
+# Videos
 https://streamable.com/x95uuh
 https://streamable.com/rt99d4

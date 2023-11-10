@@ -1,3 +1,5 @@
+Written by @Ross
+
 MAKE SURE YOU DISABLE Abby Demons, Dust Devils, Jellies & Nechryaels
 MAKE SURE YOU DISABLE Abby Demons, Dust Devils, Jellies & Nechryaels
 MAKE SURE YOU DISABLE Abby Demons, Dust Devils, Jellies & Nechryaels

@@ -17,7 +17,8 @@ To embed images, find the link in the repo e.g. `https://github.com/osrs-gear-di
 # TODO
 - auto format category/channel names
 - easily linking to other channels
-- easier embed images (parse file ending, add `?raw=true` if its an image on github). check if mp4s are possible too: remove reliance on streamable
+- easier embed images (`<IMG>` tag so only partial path is needed. `~` for relative too)
+  - check if mp4s are possible too: remove reliance on streamable
 - insert emojis (e.g. prayers, spellbook/runes etc. like Petcord)
 - sectioned guides / TOC support
 - multi line comments?

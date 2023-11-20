@@ -19,7 +19,6 @@ Lunars - Natures / Laws / Astrals / Bloods / Lavas / Waters
 <IMG ~resources/saradomin/setup%204.png>
 
 # Advice/Info
-
 ## Solo
 - The Shadow setup is better DPS however you lack a meaningful way to boost your defence level and your equipment defence bonuses are low which will cause you take significantly increased minion damage if you're not flicking, leading to situations where you'll be forced to waste ticks eating during kills and potentially panic brewing to drain your Magic level. Therefore any DPS advantage will be lost.
 - For the ranged method, equip the BP + Serp at the start to venom the minions (100% chance of inflicting venom when you deal damage) then switch back to the Twisted Bow + Masori Helmet for killing the boss. 
@@ -30,10 +29,9 @@ Lunars - Natures / Laws / Astrals / Bloods / Lavas / Waters
 ## Dolo
 - The alt should kill Bree > Starlight > Growler. You could also take a 2nd Twisted Bow on this account and help DPS Zilyana after killing Bree + Starlight if you wanted. This can be stretched further by incorporating world-hopping too.
 - If you're using a Shadow on the main, it's still worth pot sharing the Bastion potions just for the defence boost.
-- The blood runes are just for an emergency situation, you can cast Heal Other on your main account for a quick injection of HP.
-- 
-# Videos
+- The blood runes are just for an emergency situation: you can cast Heal Other on your main account for a quick injection of HP.
 
-Shadow solo kill example https://streamable.com/h4fwxh
-Dolo Saradomin Guide by Baskie https://www.youtube.com/watch?v=5i7EMzXpRj0
-0 Run Energy Solo Saradomin Guide by GeChallengeM https://www.youtube.com/watch?v=WUa4T1lRNKo
+# Videos
+Shadow solo kill example: https://streamable.com/h4fwxh
+0 Run Energy Solo Saradomin Guide by GeChallengeM: https://www.youtube.com/watch?v=WUa4T1lRNKo
+Dolo Saradomin Guide by Baskie: https://www.youtube.com/watch?v=5i7EMzXpRj0

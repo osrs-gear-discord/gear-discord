@@ -8,7 +8,9 @@ Any notes about setup
 
 ## Gear advice
 - Mention other switches and possible downgrades?
+### Downgrades
+
+## Fight overview (or mechanics?)
 
 # Videos
-Video content by Author
-[video link here]
+Video content by Author: [video link here]

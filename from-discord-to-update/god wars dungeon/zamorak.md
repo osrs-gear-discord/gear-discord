@@ -1,27 +1,27 @@
 ## Setup 1
 **Tank** (Pray Mage)
 Normals - Fires/Natures 
-https://i.imgur.com/9z2RJKk.png
+<IMG ~zamorak/setup%201.png>
 
 ## Setup 2
 **Melee Attacker** (Pray Mage)
 Lunars - Mud/Astral/Death
-https://i.imgur.com/r0rjOiv.png
+<IMG ~zamorak/setup%202.png>
 
 ## Setup 3
 **Range Attacker** (Pray Mage)
 If you don't have any Arclight charges then this is the next best option for attacking (the Zamorak Bracers are for getting KC)
-https://i.imgur.com/fCf28Ta.png
+<IMG ~zamorak/setup%203.png>
 
 ## Setup 4
 **Range Solo 5:0**
-Ancients - Bloods/Souls/Deaths 
-https://i.imgur.com/RFxYiPp.png 
+Ancients - Bloods/Souls/Deaths
+<IMG ~zamorak/setup%204.png>
 
 ## Setup 5
 **Melee Solo**
 Ancients - Bloods/Souls/Deaths
-https://i.imgur.com/AW37FdD.png
+<IMG ~zamorak/setup%205.png>
 
 # Advice/Info
 ## Getting KC

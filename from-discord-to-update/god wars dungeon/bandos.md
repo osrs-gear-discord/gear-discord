@@ -3,27 +3,27 @@
 ### Setup 1
 **Shadow Attacker**
 Ancient - Water / Blood / Death / Soul
-https://i.imgur.com/UfvWSXY.png
+<IMG ~resources/bandos/setup%201.png>
 
 ### Setup 2
 **Ranged Attacker**
 Lunar - Water / Earth / Astral / Death (tank takes alchs in this setup)
-https://i.imgur.com/WoSmBKj.png
+<IMG ~resources/bandos/setup%202.png>
 
 ### Setup 3
 **Bow of Faerdhinen Solo**
 Ancient - Blood / Death / Soul
-https://i.imgur.com/WUkrrRg.png
+<IMG ~resources/bandos/setup%203.png>
 
 ### Setup 4
 **Shadow Solo** - pray range
 Arceuus - Fire / Blood / Cosmic
-https://i.imgur.com/vNEHwdQ.png
+<IMG ~resources/bandos/setup%204.png>
 
 ### Setup 5
 **Tank**
 Lunar - Astral / Water / Earth / Death
-https://i.imgur.com/R3BH66s.png
+<IMG ~resources/bandos/setup%205.png>
 
 # Advice/Info
 
@@ -38,8 +38,6 @@ https://i.imgur.com/R3BH66s.png
 
 # Videos
 
-6:0 Bow of Faerdhinen Guide by GeChallengeM
-https://www.youtube.com/watch?v=rvkytWBKzKU
+5:0 Shadow Guide by GeChallengeM: https://www.youtube.com/watch?v=6pnQRZi5LMg
 
-5:0 Shadow Guide by GeChallengeM
-https://www.youtube.com/watch?v=6pnQRZi5LMg
+6:0 Bow of Faerdhinen Guide by GeChallengeM: https://www.youtube.com/watch?v=rvkytWBKzKU

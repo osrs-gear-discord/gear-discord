@@ -1,5 +1,5 @@
 # Setup 1
-https://i.imgur.com/EfPyqLp.png
+<IMG ~resources/zalcano.png>
 
 # Advice/Info
 Loot scales with your personal damage contribution to the kill. Therefore, masses are very bad for profit. 4 man teams seem to be the sweetspot for gp/hr.

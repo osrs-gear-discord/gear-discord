@@ -1,11 +1,13 @@
 **Set up 1 - ZCB/TBow (duo or team)**
-https://i.imgur.com/lQoekG9.png
+<IMG ~resources/nex/setup%201.png>
 
 **Set up 2 - Melee (teams)**
-https://i.imgur.com/3jvyniJ.png
+<IMG ~resources/nex/setup%202.png>
 
 **Set up 3 - Melee Duo**
-https://i.imgur.com/VaJ5rdz.png
+<IMG ~resources/nex/setup%203.png>
+
+// comment that should not show up
 
 **Advice/Info**
 

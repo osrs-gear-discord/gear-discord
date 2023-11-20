@@ -1,5 +1,6 @@
 ## Setup 1
-**Lunar** - Law / Cosmic / Astral  (~45 completions/hr)
+Lunar - Law / Cosmic / Astral  (~45 completions/hr)
+Steam battlestaff
 https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/1%20easy/setup.png?raw=true
 
 # Advice/Info
@@ -10,6 +11,6 @@ https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-upda
 
 For the cape slot: Max cape > Construct. cape > Crafting cape + Teleport to house tablets in your inventory > Any of the capes in the image above
 
-## Videos
+# Videos
 Easy Clues by Shen btw
 https://www.youtube.com/watch?v=FuwtUVd8ybU

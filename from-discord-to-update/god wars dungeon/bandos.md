@@ -1,36 +1,35 @@
-# Take note of the specific blessings used in all setups as well as the gear. You want to have 1 Zamorak item and 1 Bandos item in order to mitigate damage outside the boss room.
+# Take note of the specific blessings used in all setups as well as the gear. You want to have 1 Zamorak item and 1 Bandos item in order to pacify minions outside the boss room.
 
 ### Setup 1
 **Shadow Attacker**
-Ancients - Bloods/Deaths/Souls
+Ancient - Water / Blood / Death / Soul
 https://i.imgur.com/UfvWSXY.png
 
 ### Setup 2
 **Ranged Attacker**
-Lunars - Astrals/Waters/Earths/Deaths (tank takes alchs in this setup)
+Lunar - Water / Earth / Astral / Death (tank takes alchs in this setup)
 https://i.imgur.com/WoSmBKj.png
 
 ### Setup 3
 **Bow of Faerdhinen Solo**
-Ancients - Souls/Bloods/Deaths
+Ancient - Blood / Death / Soul
 https://i.imgur.com/WUkrrRg.png
 
 ### Setup 4
-**Shadow Solo**
-Arceuus - Cosmics/Bloods/Fires
+**Shadow Solo** - pray range
+Arceuus - Fire / Blood / Cosmic
 https://i.imgur.com/vNEHwdQ.png
 
 ### Setup 5
 **Tank**
-Lunars - Astrals/Waters/Earths/Deaths
+Lunar - Astral / Water / Earth / Death
 https://i.imgur.com/R3BH66s.png
 
 # Advice/Info
 
 ## Attacker Info
-
-The Shadow setup is simply better. The Volatile is used for specs, the Kodai is used for Blood Barraging minion stacks for hp, the Sang is used to attacking non-grouped minions/getting KC. 
-If using Bow of Faerdhinen setup, you can swap to Arceuus spellbook once comfortable with offticking and flicking minions after the boss is dead - swap out
+- The Shadow setup is simply better. Volatile staff is for specs on the boss, Kodai wand is for Blood Barraging minion stacks for hp, Sang staff is for getting KC/attacking non-grouped minions. 
+- If using Bow of Faerdhinen setup, you can swap to Arceuus spellbook once comfortable with offticking and flicking minions after the boss is dead
 
 ## Tank Info
 - Replace the Elysian Spirit Shield with a Dragonfire Shield if you're tanking and don't have an Elysian Spirit Shield.

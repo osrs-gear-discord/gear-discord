@@ -1,5 +1,5 @@
 ## Setup 1
-**Lunar** - Astral / Law / Cosmic (~7 completions/hr)
+Lunar - Astral / Law / Cosmic (~7 completions/hr)
 https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/4%20elite/setup.png?raw=true
 
 # Advice/Info

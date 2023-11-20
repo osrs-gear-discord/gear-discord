@@ -1,5 +1,5 @@
 ## Setup 1
-Lunar - Law/Cosmic/Astral/Soul (~30 completions/hr)
+Lunar - Law / Cosmic / Astral / Soul (~30 completions/hr)
 https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/2%20medium/setup.png?raw=true
 
 # Advice/Info
@@ -17,7 +17,7 @@ Make sure you have at least 4 inventory spaces, so you don't have to juggle.
 This spreadsheet by Kelvino shows you the closest teleports to a certain step: 
 <https://docs.google.com/spreadsheets/d/1pCrB3f8l399F8xc2LEbIEjkdaquXTHaLKM2-Mfe03j4/edit#gid=1231552185>
 
-## Videos
+# Videos
 Medium Clues by Kelvino
 https://www.youtube.com/watch?v=hqyBZhA0Ta0
 Example with Achievement diary cape and Music step: https://streamable.com/8wbs6u

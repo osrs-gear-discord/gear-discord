@@ -1,11 +1,12 @@
 ## Setup 1
-Masters (3-4 completions/hour)
+Master clues (3-4 completions/hour)
 https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/5%20master/setup.png?raw=true
 
 # Advice/Info
-You can get Master clues from other clue caskets besides Beginner. You can also turn in one of each clue besides Beginner for a Master. Ways to get Elites are listed in #elite 
+You can get Master clues from other clue caskets besides Beginner. You can also turn in one of each clue besides Beginner for a Master.
+// Ways to get Elites are listed in #elite 
 
-When you have a high level wilderness step it is recommended to bank the Xeric's talisman, Master scroll book and Slayer ring (eternal). Gearing up the Slayer ring (eternal) is completely optional.
+When you have a high level wilderness step it is recommended to bank the Xeric's talisman, Master scroll book and Slayer ring (eternal). When gearing up, the eternal slayer ring is completely optional.
 
 It's recommended to have the required Sherlock and Falo the Bard items close to each other in your bank. These are listed here: 
 - <https://oldschool.runescape.wiki/w/Sherlock>
@@ -13,7 +14,7 @@ It's recommended to have the required Sherlock and Falo the Bard items close to 
 
 For the cape slot: Max cape > Any cape with an Ava's effect. Also have a Crafting cape and Constr. cape in your inventory if you don't have a Max cape.
 
-Alternatively due to the amount of banking and high level wilderness steps, you can also use a minimalistic version of this setup and only bank what you really need for each step. Here's an example of how that setup would look like:
+Alternatively due to the amount of banking and high level wilderness steps, you can also use a minimalistic setup and only withdraw what you need for each step. Here's an example of how that setup would look like:
 https://github.com/osrs-gear-discord/gear-discord/blob/483590b8ca44cde37add06c049cd02784a90416c/from-discord-to-update/clues/resources/5%20master/setup%20wildy.png?raw=true 
 
 It is also recommended to have the following items close to each other in your bank as well as high strength bonus (e.g. a Godsword), ranged attack (from the base setups, you can use Black d'hide chaps and Heavy ballista or something similar) and magic attack bonus equipment:

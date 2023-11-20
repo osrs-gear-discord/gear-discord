@@ -1,5 +1,5 @@
 ## Setup 1
-**Lunar** - Cosmic/Mist/Lava (~10 completions/hr)
+Lunar - Cosmic / Mist / Lava (~10 completions/hr)
 Hard clues from Implings
 https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/3%20hard/setup%201.png?raw=true
 
@@ -21,6 +21,6 @@ For the cape slot: Max cape > Any cape with an Ava's effect.
 
 You also need a Constr. cape or Teleport to house tablets in your inventory if you don't have a Max cape. Replace one of the golden jewellery if you don't want to juggle items to make space for the Uri clues.
 
-## Videos
+# Videos
 Hard Clue farming with Magpie Implings by Jumanji (slightly different setup, but same concept as setup 1 is applied)
 https://youtu.be/vMQO_BcvCrQ

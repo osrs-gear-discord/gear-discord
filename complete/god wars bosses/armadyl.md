@@ -1,18 +1,18 @@
 # Setup 1
 [Suitable for solo or dolo]
-Shadow
-Ancients - Blood/Soul/Death/Water
+**Shadow**
+Ancient - Water / Blood / Soul / Death
 link to picture goes here
 
 # Setup 2
 [Suitable for solo or dolo]
 **Chinchompas** (~25 kills/hr)
-Ancients - Blood/Soul/Death
+Ancient - Blood / Soul / Death
 https://i.imgur.com/7LedMPc.png
 
 # Setup 3
 **Alt**
-Lunars - Earth/Water/Astral/Death (replace Earth + Water with Mud if no Divine pouch)
+Lunar - Earth / Water / Astral / Death (replace Earth + Water with Mud if no Divine pouch)
 Regular runite bolts (no bolt tips or enchantments)
 https://github.com/osrs-gear-discord/gear-discord/blob/main/complete/god%20wars%20bosses/armadyl%20alt.png?raw=true
 
@@ -22,8 +22,7 @@ https://github.com/osrs-gear-discord/gear-discord/blob/main/complete/god%20wars%
 - Book of law is an Arma item as Masori does not provide protection against Arma's troops. Drop them inside, or keep it so you can safely resupply outside. If you don't have Masori and bring Armadyl, you don't need this item.
 - Shield slot: Dragonfire ward/Twisted buckler → Elysian spirit shield → Dragonfire shield → Crystal shield
 - Chinchompa quantity: Bring ~6 times the amount of chins per assigned Aviansie e.g. a task of 200 Aviansies requires roughly 1.2k Black chinchompas. Bring about 30 chins per Kree'arra kill off-task e.g. 3k chins for 100 boss kills.
-- Secondary weapon for the main: Twisted bow with Dragon arrows → Best crossbow with Dragon diamond bolts → Bow of faerdhinen → Any crossbow with Adamant diamond bolts. Twisted bow is definitely not vital.
- - Bow of faerdhinen is only recommended if you do not have full masori. Otherwise, the extra gear is not worth the space.
+- Secondary weapon for the main: Twisted bow with Dragon arrows → Best crossbow with Dragon diamond bolts → Bow of faerdhinen (only if you don't have masori) → Any crossbow with Adamant diamond bolts. Twisted bow is definitely not vital.
 - The saturated heart can be traded back and forth to save an inventory space if you don't have a resupply alt. The bones to peaches tablets can also be brought by one account and traded over once space is available.
 - Cape: Max cape (should be replaced with a Fletching cape if you're not maxed) provides a grapple and crossbow while only using 1 inventory slot. Another benefit of using these capes is equipping them for their defence and prayer bonuses for the first few kills of the trip until you receive the desired food drops.
 - Venator ring and twisted buckler do not give a max hit over ring of suffering and dragonfire ward when on task and using slayer helm.
@@ -34,13 +33,14 @@ https://github.com/osrs-gear-discord/gear-discord/blob/main/complete/god%20wars%
 
 ## During kills
 ### Shadow setup
+- Tumeken's shadow is superior kills per hour if you can keep your magic level boosted, but you take more damage.
 - Stand southeast, close to the door. Freeze the melee minion when it spawns, and if it unfreezes.
 - Try to brew as little as possible during kills as you have limited ability to re-boost your mage level quickly
  - The blood ancient sceptre allows you to overheal to 108 between kills.
  - If your saturated heart will be available before the next kill, you can use a brew dose to boost to 115 before repotting.
 - Dinh's bulwark and justiciar armour are for flicking between shadow hits to reduce damage, you must still click Kree'arra every tick to ensure he does not walk into melee range.
  - Defensive flicks are not necessary if you are still getting comfortable with the method.
- - Optionally, you can run under the boss between hits instead.
+ - Optionally you can run under the boss between hits instead, however this means the boss can melee you.
 - Use eldritch staff special attacks on either the melee or range minion after the boss is dead.
 ### Chinchompa setup
 - It's recommended to firstly chin off the ranged minion then the melee minion in order to get the fastest kills possible. If you mess up the process of holding Kree'arra in line with the ranged minion, it is also fine to then just chin the melee minion followed by the mage minion instead.

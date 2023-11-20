@@ -1,11 +1,11 @@
 **Set up 1 - ZCB/TBow (duo or team)**
-<IMG ~resources/nex/setup%201.png>
+<IMG from-discord-to-update/god%20wars%20dungeon/resources/nex/setup%201.png>
 
 **Set up 2 - Melee (teams)**
-<IMG ~resources/nex/setup%202.png>
+<IMG from-discord-to-update/god%20wars%20dungeon/resources/nex/setup%202.png>
 
 **Set up 3 - Melee Duo**
-<IMG ~resources/nex/setup%203.png>
+<IMG from-discord-to-update/god%20wars%20dungeon/resources/nex/setup%203.png>
 
 // comment that should not show up
 

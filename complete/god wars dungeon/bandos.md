@@ -1,26 +1,26 @@
 # Take note of the specific blessings used in all setups as well as the gear. You want to have 1 Zamorak item and 1 Bandos item in order to pacify minions outside the boss room.
 
-### Setup 1
+## Setup 1
 **Shadow Attacker**
 Ancient - Water / Blood / Death / Soul
 <IMG ~resources/bandos/setup%201.png>
 
-### Setup 2
+## Setup 2
 **Ranged Attacker**
 Lunar - Water / Earth / Astral / Death (tank takes alchs in this setup)
 <IMG ~resources/bandos/setup%202.png>
 
-### Setup 3
+## Setup 3
 **Bow of Faerdhinen Solo**
 Ancient - Blood / Death / Soul
 <IMG ~resources/bandos/setup%203.png>
 
-### Setup 4
+## Setup 4
 **Shadow Solo** - pray range
 Arceuus - Fire / Blood / Cosmic
 <IMG ~resources/bandos/setup%204.png>
 
-### Setup 5
+## Setup 5
 **Tank**
 Lunar - Astral / Water / Earth / Death
 <IMG ~resources/bandos/setup%205.png>

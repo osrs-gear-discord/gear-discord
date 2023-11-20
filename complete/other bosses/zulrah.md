@@ -4,7 +4,7 @@ Arceuus - Blood / Cosmic / Fire (And 1 rune of any Chaos / Death / Law)
 <IMG ~resources/zulrah/setup_1.png>
 
 ## Setup 2 
-Bow only (~28 kills/hr)
+**Bow only** (~28 kills/hr)
 Arceuus - Blood / Cosmic / Fire (And 1 rune of any Chaos / Death / Law)
 <IMG ~resources/zulrah/setup_2.png>
 
@@ -33,4 +33,4 @@ Rot 4: green(1) → green(2) → red(2) → blue
 
 # Videos
 Example kill: https://www.youtube.com/watch?v=GwSLZfSdAQM
-Pillar stalling guide: https://www.youtube.com/watch?v=Uk7P6VX9Xt8
+Pillar stalling guide by **Gherkins**: https://www.youtube.com/watch?v=Uk7P6VX9Xt8

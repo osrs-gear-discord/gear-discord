@@ -1,6 +1,6 @@
 ## Setup 1
 Lunar - Astral / Law / Cosmic (~7 completions/hr)
-https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/4%20elite/setup.png?raw=true
+<IMG ~resources/4%20elite/setup.png>
 
 # Advice/Info
 It's recommended to have the required Sherlock items close to each other in your bank. These are listed here: <https://oldschool.runescape.wiki/w/Sherlock/Elite>
@@ -8,7 +8,7 @@ It's recommended to have the required Sherlock items close to each other in your
 For the cape slot: Max cape > any cape with an Ava's effect. 
 Potions besides the Stamina and the Dragon claws can be banked for cape teleports such as the Construct. cape and Crafting cape.
 It is also recommended to have the following items close to each other in your bank:
-https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/4%20elite/bank.png?raw=true
+<IMG ~resources/4%20elite/bank.png>
 
 // TOP 5 ways to get a Clue scroll (elite):
 // 1. Cremating Urium shades (26 min) https://www.youtube.com/watch?v=jgAKxC90Z8o

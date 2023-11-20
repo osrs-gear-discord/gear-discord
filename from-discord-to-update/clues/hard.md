@@ -1,12 +1,12 @@
 ## Setup 1
 Lunar - Cosmic / Mist / Lava (~10 completions/hr)
 Hard clues from Implings
-https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/3%20hard/setup%201.png?raw=true
+<IMG ~resources/3%20hard/setup%201.png>
 
 ## Setup 2
 Hard clues from other sources than Implings (~10 completions/hr)
 Normals
-https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/3%20hard/setup%202.png?raw=true
+<IMG ~resources/3%20hard/setup%202.png>
 
 # Advice/Info
 It is highly recommended to fill up your bank with bank fillers and the loot of Magpie or Ninja impling jars while having no placeholders of the runes, Rune pouch, Master scroll book and Ectophial. This way you can quickly withdraw 10 jars, open them and bank everything without having to withdraw big stacks of items again.
@@ -16,7 +16,7 @@ For setup 1, only fill your Master scroll book with about 20 teleport scrolls ea
 For setup 2, bank the Xeric's talisman and Master scroll book in case of a high level Wilderness step.
 
 It is also recommended for setup 1 to have the 16 other items in your inventory close to each other in a bank. Other items that are useful are shown in this image:
-https://github.com/osrs-gear-discord/gear-discord/blob/main/from-discord-to-update/clues/resources/3%20hard/bank.png?raw=true
+<IMG ~resources/3%20hard/bank.png>
 For the cape slot: Max cape > Any cape with an Ava's effect.
 
 You also need a Constr. cape or Teleport to house tablets in your inventory if you don't have a Max cape. Replace one of the golden jewellery if you don't want to juggle items to make space for the Uri clues.

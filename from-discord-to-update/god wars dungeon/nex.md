@@ -10,8 +10,6 @@
 **Melee Duo**
 <IMG ~resources/nex/setup%203.png>
 
-// comment that should not show up (and it doesnt!)
-
 # Advice/Info
 
 - Slayer helm switch for the player that is the designated cough tank. The player can choose to main it if they wish. This will also prevent the player from tanking P5 (zaros) assuming all other stats are equal.

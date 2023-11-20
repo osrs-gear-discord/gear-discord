@@ -30,7 +30,5 @@ Smite phase: Zaryte crossbow → Armadyl crossbow → Dragon crossbow → Rune c
 Attacking the boss on the first possible tick will ensure your attacks are off ticked with both the Muspah's ranged and mage attack.
 
 # Videos
-Example kill
-https://streamable.com/y5wp6d 
-Smite skip guide by Molgoatkirby
-https://youtu.be/0PM3xUGMLhA
+Example kill: https://streamable.com/y5wp6d 
+Smite skip guide by **Molgoatkirby**: https://youtu.be/0PM3xUGMLhA

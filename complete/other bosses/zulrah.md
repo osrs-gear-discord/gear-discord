@@ -31,8 +31,6 @@ Rot 4: green(1) → green(2) → red(2) → blue
 - This setup is primarily for people looking to farm Zulrah for gp on an alt account. The loss of kills per hour compared to hybridding isn't worth it if you're killing Zulrah on your main.
 - The Toxic blowpipe is optional. It is only useful for healing with the special attacks to regen some health during blue phase, or for pillar stalling if you wish to do so.
 
-## Pillar stalling
-https://www.youtube.com/watch?v=Uk7P6VX9Xt8
-
 # Videos
-https://www.youtube.com/watch?v=GwSLZfSdAQM
+Example kill: https://www.youtube.com/watch?v=GwSLZfSdAQM
+Pillar stalling guide: https://www.youtube.com/watch?v=Uk7P6VX9Xt8

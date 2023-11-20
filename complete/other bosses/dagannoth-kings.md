@@ -19,7 +19,7 @@ Ancient - Blood / Death / Soul
 - Healing yourself with the alt is done by the Heal other spell and healing your alt with Guthans on the upstairs Dagannoths after losing aggro. This is primarily done to compensate the lack of healing from Dagannoth Rex when using a Shadow.
 
 # Videos
-https://streamable.com/kgux1y
 This is the faster entry method. You should be comfortable with flicking multiple NPCs and offticking them either by aggroing them on different ticks, or stepping under or stepping back (in Rex's case) if they're attacking on the same tick. It's usually unlikely that Rex will even aggro you but I aggrod all 3 for demonstration purposes.
-https://streamable.com/aeyy63
+https://streamable.com/kgux1y
 This is the slower entry method. If you're not comfortable flicking multiple NPCs, then just keep going up and down the ladder until Supreme is close to the ladder and the other 2 kings are at a distance. If you instantly go back up the ladder, you won't take damage from the DKS. Keep in mind that you can get unlucky and Prime can wander over and aggro you, so keep an eye on him and get ready to either flick or go back up the ladder and repeat the process if he does so.
+https://streamable.com/aeyy63

@@ -22,5 +22,4 @@ For the cape slot: Max cape > Any cape with an Ava's effect.
 You also need a Constr. cape or Teleport to house tablets in your inventory if you don't have a Max cape. Replace one of the golden jewellery if you don't want to juggle items to make space for the Uri clues.
 
 # Videos
-Hard Clue farming with Magpie Implings by Jumanji (slightly different setup, but same concept as setup 1 is applied)
-https://youtu.be/vMQO_BcvCrQ
+Hard Clue farming with Magpie Implings by **Jumanji** (slightly different setup, but same concept as setup 1 is applied): https://youtu.be/vMQO_BcvCrQ

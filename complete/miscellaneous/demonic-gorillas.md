@@ -25,4 +25,4 @@ For ranged weapons, a Toxic Blowpipe is technically the best DPS, but this means
 Typical melee special attacks such as Dragon claws and DDS are bad here since the subsequent hitsplats will null if the first hitsplat pushes the Gorilla over the 50 damage prayer-switch threshold. If you don't have an SGS, simply use the Toxic Blowpipe special attack, or just the Arclight if you're using a Twisted Bow.
 
 # Videos
-https://streamable.com/6bcb3e
+Example kill: https://streamable.com/6bcb3e

@@ -1,3 +1,5 @@
+Written by Smorc3000
+
 ## Normal Gauntlet - Casual
 Tier 3 bow + Tier 1 staff OR Tier 3 staff + Tier 1 bow 
 Tier 1 armour
@@ -24,12 +26,12 @@ Tier 1 armour
 # Advice/Info
 ## Casual Prep guide 
 Total shards required: 320
-- Collect the following supplies whenever you come across them. Collecting while attacking something is faster than doing each separately: 
- → 3x Crystal Ore
- → 3x Phren Bark 
- → 3x Linum Tirinium 
- → 2x Grym Leaf 
- → 16x Paddlefish
+Collect the following supplies whenever you come across them. Collecting while attacking something is faster than doing each separately: 
+ - 3x Crystal Ore
+ - 3x Phren Bark 
+ - 3x Linum Tirinium 
+ - 2x Grym Leaf 
+ - 16x Paddlefish
 
 1. Kill low level enemies in the first room for 1x Weapon Frame
 2. Return to the prep room and make a Tier 1 or Tier 2 Staff (20-80 shards) and 2x Vial if you have another 20 shards. Prioritize getting a tier 2 staff over buying vials.
@@ -42,8 +44,8 @@ Total shards required: 320
 - Hunllef will start with a random protection prayer and switch prayers on the 6th hit that you do. Hitting the hunllef with the style it is praying against does not count towards it. 
 - Hunllef attacks every 5 ticks. It starts with range and will alternate between mage and range afterwards. In corrupted with t1 armor it will max 13 through prayer and ~60 off prayer. Hunllef changes its attack style every 4 attacks. This does include the 2 special attacks (prayer disabling attack and tornados) but does not include the stomp attack. It will perform a small animation shortly before changing attack styles. You can optionally use an external counter to be better prepared for every attack switch: https://gauntletcounter.herokuapp.com/
 - Hunllef has 2 direct special attacks that it will use at random times: 
-→ Prayer Disabling Attack: This can only be used while the Hunllef is attacking with magic and simply turns off your prayers. For this reason, protect from magic in your quick prayers is recommended. 
-→ Tornado Attack: The Hunllef summons multiple tornados that chase the player and deal high damage if they reach the players location. The amount of tornados spawned varies on the hp of hunllef. It starts at 1 tornado (2 in corrupt). Below 2/3 it will spawn one more, and below 1/3 it will again spawn another.
+ - Prayer Disabling Attack: This can only be used while the Hunllef is attacking with magic and simply turns off your prayers. For this reason, protect from magic in your quick prayers is recommended. 
+ - Tornado Attack: The Hunllef summons multiple tornados that chase the player and deal high damage if they reach the players location. The amount of tornados spawned varies on the hp of hunllef. It starts at 1 tornado (2 in corrupt). Below 2/3 it will spawn one more, and below 1/3 it will again spawn another.
 - During the fight, the floor will light up in various places. Tiles are initially highlighted in blue (red in corrupted) as a warning and soon turn orange. If the player stands on an orange tile they will continue to take high damage until they step off of the highlighted tiles. There are 3 different sets of floor patterns that are chosen based on the same hp thresholds as the tornados. The time between the tiles being highlighted until it deals damage is also decreased from 6 ticks at the beginning of the fight to 3 ticks near the end. 
 
 ### Hunllef position
@@ -62,15 +64,16 @@ It is also possible to woox-walk the tornados, however it can be hard avoiding t
 By using redemption you can make every prayer pot dose count as 24 hitpoints. For casual runs i would only recommend it on runs where food is tight, but for speedruns this method is required. You have to turn on redemption AFTER the hunllef has fired the attack. If your redemption procs, you have to make sure you get the protection prayer back on before the next attack. If you are far away from hunllef you have less time to get the prayer back on, but it is still possible. Here’s an example: https://streamable.com/f3doh4
 
 ## 5:1 Method
-For casual runs, getting two tier 3 weapons is recommended. However, if you are speedrunning or want to get faster average completions you should do the 5:1 method. This method involves doing 5 hits with your main weapon then switching styles to change the prayers on the 6th hit. This way you can enter hunllef with only 1 tier 3 weapon and still do decent dps. This method saves a lot of time in prep, but will make hunllef slightly slower. There's 3 setups you can take for 5:1:
-● T3 Bow + T1 Staff. Hit 5 times with bow, then 1 hit with staff/kick depending on its prayer
-● T3 Staff + T1 Bow. Hit 5 times with staff, then 1 hit with bow/kick depending on its prayer
-● T3 Halberd + T1 Bow + T1 Staff. You can only do this if you get 3 weapon frames. Hit 5 times with halberd, then bow/staff depending on its prayer.
-*If you have any leftover shards, you can upgrade your T1 weapon to T2 or get a T1 halberd instead of kick if you have another weapon frame.
-Runelite plugins
-There's a few plugins on runelite that can help. None of them are necessary, but they can help make the bossfight slightly easier.
-● “The Gauntlet” plugin from the runelite plugin hub can be used to highlight the tiles of Hunllef and tornadoes. This is especially useful for the tornadoes, as their actual position can be a bit misleading. https://i.imgur.com/SPtxxnk.png
-● “Tile indicators” plugin can show the current tile you are standing on as well as the tile you are pathing towards, this can be useful for dodging tornados. https://i.imgur.com/IgOfBgZ.png
+For casual runs, getting two tier 3 weapons is recommended. However, if you are speedrunning or want to get faster average completions you should do the 5:1 method. This method involves doing 5 hits with your main weapon then switching styles to change the prayers on the 6th hit. This way you can enter hunllef with only 1 tier 3 weapon and still do decent dps. This method saves a lot of time in prep, but will make hunllef slightly slower. There are 3 setups you can take for 5:1:
+- T3 Bow + T1 Staff. Hit 5 times with bow, then 1 hit with staff/kick depending on its prayer
+- T3 Staff + T1 Bow. Hit 5 times with staff, then 1 hit with bow/kick depending on its prayer
+- T3 Halberd + T1 Bow + T1 Staff. You can only do this if you get 3 weapon frames. Hit 5 times with halberd, then bow/staff depending on its prayer
+- If you have any leftover shards, you can upgrade your T1 weapon to T2 or create a T1 halberd instead of kicking if you have a spare weapon frame.
+
+## Runelite plugins
+There are a few plugins on RuneLite that can help. None of them are necessary, but they can help make the boss fight slightly easier:
+- “The Gauntlet” plugin from the runelite plugin hub can be used to highlight the tiles of Hunllef and tornadoes. This is especially useful for the tornadoes, as their actual position can be a bit misleading. https://i.imgur.com/SPtxxnk.png
+- “Tile indicators” plugin can show the current tile you are standing on as well as the tile you are pathing towards, this can be useful for dodging tornados. https://i.imgur.com/IgOfBgZ.png
 
 ## Speedrun - How to get a fast prep: 
 1. Run into the closest room near your spawn with T1 monsters. Get weapon frame as fast as possible, while 1 ticking any nearby resources. If you don't get a weapon frame quickly, reset.

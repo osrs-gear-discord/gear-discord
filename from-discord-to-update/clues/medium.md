@@ -9,7 +9,7 @@ If you don't have an Achievement diary cape, substitute it with the Steel key ri
 
 It is also recommended to have the other items in your inventory close to each other in your bank (or use a bank tag). Other items that are useful are shown below:
 <IMG ~resources/2%20medium/setup.png>
-For the cape slot: Max cape > Construct. cape > Crafting cape + Teleport to house tablets in your inventory > Any of the capes in Setup 1
+For the cape slot: Max cape → Construct. cape → Crafting cape + Teleport to house tablets in your inventory → Any of the capes in Setup 1
 
 Incase you need inventory slots, there are a couple of items that cover only 2 medium steps. These items can be replaced for a Teleport to house tablet. If you aren't maxed keep in mind that Fishing cape and Hunter cape can be used for their teleports as well.
 

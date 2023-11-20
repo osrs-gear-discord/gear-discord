@@ -43,7 +43,7 @@ This setup should be more than good enough for the Fight Caves Speed-Runner comb
 - Bastion Potion for Jad.
 <IMG ~resources/jad/setup_5.png>
 You can adjust the setup to suit your personal preferences. Here are a few possible adjustments:
-- Taking tank legs (e.g. Verac's Plateskirt) if you have a low defence level and find yourself taking too much damage during the waves or from Jad's healers.
+- Taking tank legs (e.g. Verac's plateskirt) if you have a low defence level and find yourself taking too much damage during the waves or from Jad's healers.
 - Taking a Slayer Helm (i)/Black Mask (i) to benefit from the on-task bonuses if you're willing to get a Jad task (must have Tzhaar slayer tasks unlocked).
 - Taking some Dragon darts in your inventory to switch into your Toxic blowpipe during Wave 62 to use during the Jad fight.
 - Taking less Super restores and more Saradomin brews (or vice versa) depending on whether you personally struggle more with HP or Prayer.

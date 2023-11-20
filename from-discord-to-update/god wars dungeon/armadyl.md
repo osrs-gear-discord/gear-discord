@@ -2,19 +2,19 @@
 [Suitable for solo or dolo]
 **Shadow**
 Ancient - Water / Blood / Soul / Death
-link to picture goes here
+[link to picture goes here]
 
 # Setup 2
 [Suitable for solo or dolo]
 **Chinchompas** (~25 kills/hr)
 Ancient - Blood / Soul / Death
-https://i.imgur.com/7LedMPc.png
+[link to picture goes here]
 
 # Setup 3
 **Alt**
 Lunar - Earth / Water / Astral / Death (replace Earth + Water with Mud if no Divine pouch)
 Regular runite bolts (no bolt tips or enchantments)
-https://github.com/osrs-gear-discord/gear-discord/blob/main/complete/god%20wars%20bosses/armadyl%20alt.png?raw=true
+<IMG ~resources/nex/alt.png>
 
 # Advice/Info
 

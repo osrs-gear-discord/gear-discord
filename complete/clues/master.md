@@ -12,7 +12,7 @@ It's recommended to have the required Sherlock and Falo the Bard items close to 
 - <https://oldschool.runescape.wiki/w/Sherlock>
 - <https://oldschool.runescape.wiki/w/Falo_the_Bard>
 
-For the cape slot: Max cape > Any cape with an Ava's effect. Also have a Crafting cape and Constr. cape in your inventory if you don't have a Max cape.
+For the cape slot: Max cape → Any cape with an Ava's effect. Also have a Crafting cape and Constr. cape in your inventory if you don't have a Max cape.
 
 Alternatively due to the amount of banking and high level wilderness steps, you can also use a minimalistic setup and only withdraw what you need for each step. Here's an example of how that setup would look like:
 <IMG ~resources/5%20master/setup%20wildy.png>

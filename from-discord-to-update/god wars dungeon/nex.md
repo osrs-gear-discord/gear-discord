@@ -19,13 +19,13 @@
 - It is important to be aware of nex's special attack cycles/hp thresholds in order to brew at optimal times. For example, if you know nex is about to siphon, you can begin to brew whilst hitting minions. This will allow you to repot and have max stats once the boss becomes attackable so you don't sacrifice DPS. 
 - Elysian is a great addition if you plan on flicking between attacks. 
 
-## Melee Info
+## Melee Advice
 
 - Melee p1 (smoke), p3 (blood), p4 (ice), p5 (zaros) when available. Melee is best DPS.
 - As a meleer, you should always think ahead to avoid missing ticks. If you are late to any transition, it is detrimental to your team/DPS. Be ready to switch gear/move to the next phase/minion at all times.
 - It is crucial that your rangers take aggro on p3 (blood) because brewing whilst using a zaryte crossbow is less of a DPS loss than brewing with rapier. Your rangers may take aggro by stepping away from the boss. Ideally, there should be two rangers split more than 1 tile away from the boss. This will allow nex to transition attacks between those 2 players. 
 
-## Duo Info
+## Duo Advice
 
 There are a multitude of adjustments that you may make in duos to help your experience but the most important ones are the following: 
 
@@ -33,8 +33,8 @@ There are a multitude of adjustments that you may make in duos to help your expe
 - Being aware of Nex's position/specials. Example: Ice phase generally attacks both players. If you are on the ice minion and one player is able to move outside of its attack range whilst still being able to attack the minion, then do so. 
 - The goal should always be to avoid damage whilst not losing DPS.
 
-## Quick bank
+## Quick Banking
 
-Banking in between kills does not require an alt and allows you to kill nex without taking breaks in any team size > 5. Profiting KC is not an issue as long as you keep your mistakes on the lower side. 
+Banking in between kills does not require an alt and allows you to kill Nex without taking breaks in any team size > 5. Profiting KC is not an issue as long as you keep your mistakes on the lower side. 
 
 Example: https://www.twitch.tv/videos/1267288632

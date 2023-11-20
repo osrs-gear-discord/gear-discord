@@ -5,7 +5,7 @@ Lunar - Astral / Law / Cosmic (~7 completions/hr)
 # Advice/Info
 It's recommended to have the required Sherlock items close to each other in your bank. These are listed here: <https://oldschool.runescape.wiki/w/Sherlock/Elite>
 
-For the cape slot: Max cape > any cape with an Ava's effect. 
+For the cape slot: Max cape → any cape with an Ava's effect. 
 Potions besides the Stamina and the Dragon claws can be banked for cape teleports such as the Construct. cape and Crafting cape.
 It is also recommended to have the following items close to each other in your bank:
 <IMG ~resources/4%20elite/bank.png>

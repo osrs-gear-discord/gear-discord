@@ -6,7 +6,7 @@ Loot scales with your personal damage contribution to the kill. Therefore, masse
 
 Massing (e.g. on world 375 or 378) is best for hunting the pet.
 
-## Setup Overview
+## Gear Advice
 - Divine rune pouch/Rune pouch: This is for storing runes that you get as loot from the boss.
 - Teleport crystal: This is for returning quickly to Zalcano in the event of a death (doesn't have to be an Eternal crystal, just a regular one is fine).
 - Celestial signet: This ring provides a 10% chance of saving charges when using crystal equipment and boosts your mining level by 4 (an Elven Signet can also be used if you don't have a Celestial Signet, but you will not receive the invisible +4 mining boost).
@@ -24,14 +24,14 @@ Massing (e.g. on world 375 or 378) is best for hunting the pet.
 - Crystal pickaxe → Dragon/Infernal pickaxe
 - Divine rune pouch → Rune pouch
 
-## Killing Zalcano
+## Fight Overview
 1. Mine the glowing red rocks (you mine these much faster than the non-glowing ones). For teams with 4-10 people, divide 30 by the amount of people in your team to get a rough estimate of how many rocks each player should mine.
 2. Refine your newly acquired ore on the furnace.
 3. Run across the room and imbue your refined ore on the altar.
 4. Throw the imbued ore at Zalcano. If blue circles appear, run onto one immediately and continue throwing. If blue circles don't appear, throw them until you have a few left then wait for blue circles to appear and throw the rest.
 5. When her shield reaches zero she will fall to the ground where you mine her to deal damage.
 
-### Zalcano's Attacks
+## Boss Mechanics
 - She will periodically drop boulders from the sky, they cover 1 tile and deal ~40 damage. Dodge these.
 - She will lay down patterns of demonic symbols. AVOID THE RED SYMBOLS, they deal damage ranging from 0 up to 30 very rapidly and drain your run energy. STAND ON THE BLUE SYMBOLS as they increase your damage when you throw your imbued ore.
 - Rubble will occasionally fall on all players dealing small amounts of damage (~0-6). This is unavoidable. 

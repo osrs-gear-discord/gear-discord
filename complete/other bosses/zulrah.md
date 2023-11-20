@@ -19,12 +19,12 @@ Arceuus - Blood / Cosmic / Fire (And 1 rune of any Chaos / Death / Law)
 ## Setup 1
 - This setup is geared towards the highest kills/hr, teleporting to regen spec and hp every kill.
 - It is also geared towards utilising the pillar stalling technique. This method allows you to do more damage and take less damage by making Zulrah attack you at a slower rate, therefore prolonging the phase. The method is explained in more detail below.
-- Since the Shadow is 5t, you will often end up with a bunch of dead ticks at the end of a phase. Taking a Sanguinesti Staff allows you to optimise your number of attacks and fill up as many ticks as possible. The numbers in brackets denote how many sang hits you should do -
-Rot 1: green(1) > red(2) > blue > south green (3 after pillar stall, when snakelings spawn) > red(1)
-Rot 2: green(1) > red(2) > blue > west green > blue
-Rot 3: green(1) > blue > green > blue 
-Rot 4: green(1) > green(2) > red(2) > blue
 - The Toxic blowpipe is once again higher DPS on blue phases since the release of Masori. Use the Twisted bow for tick fixes, last hits and pillar stalling if you're in max gear.
+- Since the Shadow is 5t, you will often end up with a bunch of dead ticks at the end of a phase. Taking a Sanguinesti Staff allows you to optimise your number of attacks and fill up as many ticks as possible. The numbers in brackets denote how many sang hits you should do -
+Rot 1: green(1) → red(2) → blue → south green (3 after pillar stall, when snakelings spawn) → red(1)
+Rot 2: green(1) → red(2) → blue → west green > blue
+Rot 3: green(1) → blue → green → blue 
+Rot 4: green(1) → green(2) → red(2) → blue
 - It can be useful to have an alt account standing outside near the dock to cast Vengeance on you, as well as to pick up loot that you drop from your main account. This saves you time from interacting with the deposit chest.
 
 ## Setup 2
@@ -32,7 +32,7 @@ Rot 4: green(1) > green(2) > red(2) > blue
 - The Toxic blowpipe is optional. It is only useful for healing with the special attacks to regen some health during blue phase, or for pillar stalling if you wish to do so.
 
 ## Pillar stalling
-https://www.youtube.com/watch?v=Uk7P6VX9Xt8 
+https://www.youtube.com/watch?v=Uk7P6VX9Xt8
 
 # Videos
 https://www.youtube.com/watch?v=GwSLZfSdAQM

@@ -48,11 +48,11 @@ Arceuus - Cosmic / Blood / Fire / Death
 After the introduction of #phosanis-nightmare there is no reason to do regular solo nightmare unless you're very new to the boss and need practice before moving on to Phosani. Phosani's Nightmare has fewer hours for pet completion, more uniques per hour and better regular loot.
 
 ### Fight Advice
-Make sure you Brew -> SCB between hits to ensure every hit is on max stats.
+Make sure you Brew → SCB between hits to ensure every hit is on max stats.
 A Blood Fury may prove useful to almost entirely negate the need for food without sacrificing much DPS. You should still bring a Torture for when you are full or near full hp.
-Phase 1: Double claw spec when fight starts. Kill husks using the inquisitor's mace.
+Phase 1: Double claw spec when fight starts. Kill husks using the Inquisitor's mace.
 Phase 2: Run under the boss just before the parasite spawns to lower the chance of it successfully healing the boss. If it manages to walk out, either step behind the parasite (so it is between you and the boss), or stay under the boss opposite the parasite so the boss paths over it. Claw spec parasites whenever you have spec, use inquisitor's mace whenever you don't.
-Phase 3: Stay away from mushrooms. Make sure you kite the boss if your hitpoints is below 16 as you cannot redemption the melee attack.
+Phase 3: Stay away from mushrooms. Make sure you kite the boss if your hitpoints are below 16 as you cannot redemption the melee attack.
 
 ## Finding Teams
 Finding split teams can be difficult ever since the introduction of #phosanis-nightmare, however if you want free-for-all teams, you can join the "NM Only" cc or discord (https://discord.gg/3NEfQJz) or the "nm ffa" cc or discord (https://discord.gg/RfdFYt3).

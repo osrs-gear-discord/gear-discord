@@ -1,5 +1,5 @@
 ## Setup 1
-**"Lazy" Solo** (no flicking)
+**"Lazy" Solo** (no flicking - pray mage)
 Normals - Waters / Lavas / Natures (take Bones to peaches tabs if the spell isn't unlocked)
 <IMG ~resources/saradomin/setup%201.png>
 

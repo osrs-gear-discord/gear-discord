@@ -29,15 +29,15 @@ tl;dr **use Protect from Magic for both phases**
 
 ## Fight advice
 - Walk under KQ:
-→ While eating 
-→ When it is switching forms 
-→ Between DWH specs 
-→ Between Scythe/Shadow hits
+ - While eating 
+ - When it is switching forms 
+ - Between DWH specs 
+ - Between Scythe/Shadow hits
 - You can switch rings after each Scythe hit if you walk under between each hit for maximum DPS (this is completely optional): https://streamable.com/lfd5k
-- KQ's range and mage attacks have 100% accuracy. This means your range and mage def are completely ignored. However KQ's melee attack does account for your defence, so you should stand in melee range during both forms as you will take less damage overall.
-- POH between every kill.
-- Make sure you use your Divine potions before using the pool, ideally just after the kill so your pool action doesn't get stalled.
-- Special attacks: Dragon warhammer twice and kill or Volatile at the start of the kill and then save the second spec for the second phase (should recharge by then)
+- KQ's range and mage attacks have 100% accuracy. This means your range and mage defence are completely ignored. However KQ's melee attack does account for your defence, so you should stand in melee range during both forms as you will take less damage overall.
+- PoH between every kill.
+ - Make sure you use your Divine potions before using the pool, ideally just after the kill, so your pool action doesn't get prevented by you being "in combat".
+- Special attacks: Dragon warhammer twice and kill, or Volatile at the start of the kill and then save the second spec for the second phase (should recharge by then)
 
 ## First KQ Head - Method 1
 - If you're hunting for the KQ Head for the diary, use this setup and stay in the room for as many kills as possible. 

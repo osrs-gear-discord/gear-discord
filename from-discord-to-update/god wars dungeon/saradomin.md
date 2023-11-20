@@ -1,22 +1,22 @@
 ## Setup 1
 **"Lazy" Solo** (no flicking)
 Normals - Waters / Lavas / Natures (take Bones to peaches tabs if the spell isn't unlocked)
-https://i.imgur.com/X8HN9f8.png
+<IMG ~resources/saradomin/setup%201.png>
 
 ## Setup 2
 **Shadow Solo** (flicking minions strongly recommended)
 Ancients - Bloods / Souls / Deaths
-https://i.imgur.com/bD9cLLJ.png 
+<IMG ~resources/saradomin/setup%202.png>
 
 ## Setup 3
 **Dolo - Attacker**
 Standards - Natures / Fires (optional if you care about ~200k gp/hr)
-https://i.imgur.com/WISE2O0.png 
+<IMG ~resources/saradomin/setup%203.png>
 
 ## Setup 4
 **Dolo - Alt**
 Lunars - Natures / Laws / Astrals / Bloods / Lavas / Waters
-https://i.imgur.com/ksKv6Yp.png
+<IMG ~resources/saradomin/setup%204.png>
 
 # Advice/Info
 

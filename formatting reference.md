@@ -6,9 +6,10 @@ Any notes about setup
 
 # Advice/Info
 
-## Gear advice
+## Gear Advice
 - Mention other switches and possible downgrades?
 ### Downgrades
+Arrow → For → Copy → Paste
 
 ## Fight overview (or mechanics?)
 

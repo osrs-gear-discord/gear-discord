@@ -38,6 +38,6 @@ Lunar - Astral / Water / Earth / Death
 
 # Videos
 
-5:0 Shadow Guide by GeChallengeM: https://www.youtube.com/watch?v=6pnQRZi5LMg
+5:0 Shadow Guide by **GeChallengeM**: https://www.youtube.com/watch?v=6pnQRZi5LMg
 
-6:0 Bow of Faerdhinen Guide by GeChallengeM: https://www.youtube.com/watch?v=rvkytWBKzKU
+6:0 Bow of Faerdhinen Guide by **GeChallengeM**: https://www.youtube.com/watch?v=rvkytWBKzKU
